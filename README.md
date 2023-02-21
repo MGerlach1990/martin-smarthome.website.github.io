@@ -68,31 +68,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-#�
-�m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#�
-�>�>� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�g�e�r�l�a�c�h�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�-�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�-�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �s�m�a�r�t�h�o�m�e�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#�m�a�r�t�i�n�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �M�G�e�r�l�a�c�h�1�9�9�0�-�m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�#� �m�a�r�t�i�n�-�s�m�a�r�t�h�o�m�e�.�w�e�b�s�i�t�e�.�g�i�t�h�u�b�.�i�o�
-�
-�
+#
 # martin-smarthome.website.github.io
